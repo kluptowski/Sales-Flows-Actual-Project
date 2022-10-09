@@ -20,6 +20,10 @@
 		<members>sse_demo_constants.Sales_Closed_Input_Screen</members>
 		<name>CustomMetadata</name>
 	</types>
+        <types>
+        <members>sse_demo_constants__mdt</members>
+        <name>CustomObject</name>
+    </types>
 	<types>
 		<members>sse_Opportunity_Close_Competitive_Channel_Send</members>
 		<members>sse_Opportunity_Close_Competitive_Intel_Trigger</members>

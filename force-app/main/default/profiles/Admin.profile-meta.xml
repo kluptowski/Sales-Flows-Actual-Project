@@ -61,7 +61,7 @@
         <allowEdit>false</allowEdit>
         <allowRead>false</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
-        <object>sse_demo_constants__mdt</object>
+        <object>sse_demo_constants__Smdt</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
 </Profile>
